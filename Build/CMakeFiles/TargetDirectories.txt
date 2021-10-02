@@ -1,0 +1,14 @@
+/home/pi/embedded/IOlog/IOloggerRPI/Build/CMakeFiles/edit_cache.dir
+/home/pi/embedded/IOlog/IOloggerRPI/Build/CMakeFiles/install/strip.dir
+/home/pi/embedded/IOlog/IOloggerRPI/Build/CMakeFiles/LoggerIO.dir
+/home/pi/embedded/IOlog/IOloggerRPI/Build/CMakeFiles/rebuild_cache.dir
+/home/pi/embedded/IOlog/IOloggerRPI/Build/CMakeFiles/list_install_components.dir
+/home/pi/embedded/IOlog/IOloggerRPI/Build/CMakeFiles/install.dir
+/home/pi/embedded/IOlog/IOloggerRPI/Build/CMakeFiles/install/local.dir
+/home/pi/embedded/IOlog/IOloggerRPI/Build/PJ_RPI/CMakeFiles/install/strip.dir
+/home/pi/embedded/IOlog/IOloggerRPI/Build/PJ_RPI/CMakeFiles/edit_cache.dir
+/home/pi/embedded/IOlog/IOloggerRPI/Build/PJ_RPI/CMakeFiles/PJ_RPI.dir
+/home/pi/embedded/IOlog/IOloggerRPI/Build/PJ_RPI/CMakeFiles/install.dir
+/home/pi/embedded/IOlog/IOloggerRPI/Build/PJ_RPI/CMakeFiles/rebuild_cache.dir
+/home/pi/embedded/IOlog/IOloggerRPI/Build/PJ_RPI/CMakeFiles/list_install_components.dir
+/home/pi/embedded/IOlog/IOloggerRPI/Build/PJ_RPI/CMakeFiles/install/local.dir

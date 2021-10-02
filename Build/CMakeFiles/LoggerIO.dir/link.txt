@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/LoggerIO.dir/main.c.o  -o LoggerIO  PJ_RPI/libPJ_RPI.a 
