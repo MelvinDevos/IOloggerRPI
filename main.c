@@ -5,9 +5,9 @@
 void finish_with_error(MYSQL *con)
 {
     printf("Finished with error. \n");
-  fprintf(stderr, "%s\n", mysql_error(con));
-  mysql_close(con);
-  exit(1);
+    fprintf(stderr, "%s\n", mysql_error(con));
+    mysql_close(con);
+    exit(1);
 }
 
 typedef struct{
@@ -24,7 +24,6 @@ Rpi_pin pin_list[] = {
     [1].gpio_number = 22,
     [1].state = 0,
     [1].prev_state = 0
-
 };
 
 char querry[80];
@@ -70,13 +69,19 @@ int main(int argc, char **argv)
             // Debug purposes :)
             //printf("%d: curr state=%d, prev state=%d\n", i, current_state, pin_list[i].prev_state);
 
+            // When button state changes => previous state is not equal to current state
             if( current_state != pin_list[i].prev_state){
+
+                // Set up querry via sprintf
                 sprintf(querry, "INSERT INTO `IO`(`gpio_number`, `state`, `date`) VALUES (%d,%d,now())", pin_list[i].gpio_number, current_state);
                 printf("%s\n", querry);
+
+                // Insert change into IO table
                 if (mysql_query(con, querry))
                     finish_with_error(con);
             }
 
+            // Set current state to previous state
             pin_list[i].prev_state = current_state;
         }
 
