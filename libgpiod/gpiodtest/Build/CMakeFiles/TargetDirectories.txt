@@ -1,0 +1,3 @@
+/home/pi/embedded/gpiodtest/Build/CMakeFiles/rebuild_cache.dir
+/home/pi/embedded/gpiodtest/Build/CMakeFiles/GPIOlibDtest.dir
+/home/pi/embedded/gpiodtest/Build/CMakeFiles/edit_cache.dir
