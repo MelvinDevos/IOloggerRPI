@@ -3,4 +3,10 @@
 
 CMakeFiles/LoggerIO.dir/main.c.o: ../PJ_RPI/PJ_RPI.h
 CMakeFiles/LoggerIO.dir/main.c.o: ../main.c
+CMakeFiles/LoggerIO.dir/main.c.o: /usr/include/mariadb/ma_list.h
+CMakeFiles/LoggerIO.dir/main.c.o: /usr/include/mariadb/mariadb_com.h
+CMakeFiles/LoggerIO.dir/main.c.o: /usr/include/mariadb/mariadb_ctype.h
+CMakeFiles/LoggerIO.dir/main.c.o: /usr/include/mariadb/mariadb_stmt.h
+CMakeFiles/LoggerIO.dir/main.c.o: /usr/include/mariadb/mariadb_version.h
+CMakeFiles/LoggerIO.dir/main.c.o: /usr/include/mariadb/mysql.h
 

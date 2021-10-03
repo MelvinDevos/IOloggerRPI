@@ -4,3 +4,9 @@
 CMakeFiles/LoggerIO.dir/main.c.o
  /home/pi/embedded/IOlog/IOloggerRPI/PJ_RPI/PJ_RPI.h
  /home/pi/embedded/IOlog/IOloggerRPI/main.c
+ /usr/include/mariadb/ma_list.h
+ /usr/include/mariadb/mariadb_com.h
+ /usr/include/mariadb/mariadb_ctype.h
+ /usr/include/mariadb/mariadb_stmt.h
+ /usr/include/mariadb/mariadb_version.h
+ /usr/include/mariadb/mysql.h
